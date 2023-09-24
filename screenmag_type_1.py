@@ -32,6 +32,7 @@ def screen_magnifier(scale_factor=2):
         cv2.waitKey(1)
 
     cv2.destroyAllWindows()
+    sys.exit(app.exec_())
 
 if __name__ == "__main__":
     screen_magnifier(scale_factor=2)
