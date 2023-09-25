@@ -2,7 +2,7 @@
 
 An app for magnifying a portion of the screen. Useful for when you want to enlarge a portion of the screen while presentating a lot code and text.
 
-> This repo is a part of the blog article that I have written. Checkout the blog [here](url).
+> This repo is a part of the blog article that I have written. Checkout the blog [here](https://medium.com/@hammad.ai/make-a-screen-magnification-tool-using-python-with-pyqt5-44ef47dc3325).
 
 # Technologies
 
