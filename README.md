@@ -29,3 +29,6 @@ python3 ./screenmag_pyqt5.py
 ```bash
 pip3 install pyautogui
 ```
+
+# Preview
+![App preview](docs/images/preview.png)
